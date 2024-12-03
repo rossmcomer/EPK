@@ -1762,11 +1762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\EPK\\EPK.csproj",
+      "projectUniqueName": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\EPK.csproj",
       "projectName": "EPK",
-      "projectPath": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\EPK\\EPK.csproj",
+      "projectPath": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\EPK.csproj",
       "packagesPath": "C:\\Users\\yanke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\EPK\\obj\\",
+      "outputPath": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanke\\AppData\\Roaming\\NuGet\\NuGet.Config"
