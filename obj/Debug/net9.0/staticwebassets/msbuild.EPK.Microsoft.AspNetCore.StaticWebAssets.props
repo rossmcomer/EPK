@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>fwvscf8hl4</Fingerprint>
-      <Integrity>f3in+YfTH7E0p4eycRefABb0gQiBxqd1R2m8B4KBwR8=</Integrity>
+      <Fingerprint>rogi7apho9</Fingerprint>
+      <Integrity>+8NBaZDZwaNc8kJ/d9BGnx72Ji7SwYkHmmvJ3JzlOMQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EPK.styles.css'))</OriginalItemSpec>
