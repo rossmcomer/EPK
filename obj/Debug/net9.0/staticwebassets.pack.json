@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
