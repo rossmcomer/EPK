@@ -1,2 +1,6 @@
 @use "../node_modules/bootstrap/scss/bootstrap";
-@use 'variables'
+@use 'variables' as v;
+
+html, body {
+    color: v.$pink;
+  }
