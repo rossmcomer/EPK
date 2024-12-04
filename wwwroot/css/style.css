@@ -11848,4 +11848,11 @@ textarea.form-control-lg {
   color: #FF6A00;
 }
 
+.stylisticLine {
+  width: 37px;
+  height: 5px;
+  border-top: 5px solid #6F00FF;
+  margin-bottom: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
