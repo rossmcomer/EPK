@@ -6,6 +6,7 @@ $pink: #ff00f7;
 $orange: #FF6A00;
 $black: #131313;
 $transition-color: 0.4s color ease;
+$opaque-white: rgba(240, 250, 255, 0.6);
 
 .pageContainer {
     width: 75%;
@@ -18,7 +19,7 @@ $transition-color: 0.4s color ease;
 }
 
 .pageContent {
-    background-color: rgba(240, 250, 255, 0.6);
+    background-color: $opaque-white;
     padding: 30px;
     width: 400px;
 }
