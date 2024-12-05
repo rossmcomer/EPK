@@ -11844,8 +11844,20 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.pageContainer {
+  width: 75%;
+}
+
 .pageHeader {
   color: #FF6A00;
+  font-size: 60px;
+  line-height: 1em;
+}
+
+.pageContent {
+  background-color: rgba(240, 250, 255, 0.6);
+  padding: 30px;
+  width: 400px;
 }
 
 .stylisticLine {

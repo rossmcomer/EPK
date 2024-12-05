@@ -1,3 +1,12 @@
+:root {
+    --purple: #6F00FF;
+    --green: #00e689;
+    --pink: #ff00f7;
+    --orange: #FF6A00;
+    --black: #131313;
+    --color-trans:0.4s color ease;
+}
+
 html, body {
     font-family: 'Oswald', sans-serif;
 }

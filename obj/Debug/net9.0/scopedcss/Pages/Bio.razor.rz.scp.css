@@ -1,6 +1,7 @@
-.bioContainer[b-mok9vj1l5k] {
-    background-color: rgba(240, 250, 255, 0.6);
-    padding: 30px
+.bioText[b-mok9vj1l5k] {
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 30px;
 }
 
 ul[b-mok9vj1l5k] {

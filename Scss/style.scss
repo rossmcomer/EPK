@@ -5,10 +5,22 @@ $green: #00e689;
 $pink: #ff00f7;
 $orange: #FF6A00;
 $black: #131313;
+$transition-color: 0.4s color ease;
 
+.pageContainer {
+    width: 75%;
+}
 
 .pageHeader {
-    color: $orange
+    color: $orange;
+    font-size: 60px;
+    line-height: 1em;
+}
+
+.pageContent {
+    background-color: rgba(240, 250, 255, 0.6);
+    padding: 30px;
+    width: 400px;
 }
 
 .stylisticLine {
