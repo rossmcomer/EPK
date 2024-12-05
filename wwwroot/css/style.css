@@ -11845,7 +11845,17 @@ textarea.form-control-lg {
   }
 }
 .pageContainer {
-  width: 75%;
+  width: 67%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerContainer {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
 }
 
 .pageHeader {

@@ -1,11 +1,25 @@
 .page {
-    position: relative;
     display: flex;
     flex-direction: column;
     background: url(/images/background-image.jpg) no-repeat center center / cover;
     height: 100%;
+    width: 100%;
+}
+
+.header {
+    width: 100%;
 }
 
 main {
     flex: 1;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bodyContainer {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }

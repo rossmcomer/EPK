@@ -1,5 +1,14 @@
-.nav[b-0gawv88y7r] {
+.navContainer[b-0gawv88y7r] {
+    width: 100%;
     background-color: var(--opaque-white);
+    display:flex;
+    justify-content: center;
+}
+
+.nav[b-0gawv88y7r] {
+    width: 67%;
+    display:flex;
+    justify-content: space-between;
 }
 
 .bi[b-0gawv88y7r] {

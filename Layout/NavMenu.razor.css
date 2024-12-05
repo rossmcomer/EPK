@@ -1,5 +1,14 @@
-.nav {
+.navContainer {
+    width: 100%;
     background-color: var(--opaque-white);
+    display:flex;
+    justify-content: center;
+}
+
+.nav {
+    width: 67%;
+    display:flex;
+    justify-content: space-between;
 }
 
 .bi {

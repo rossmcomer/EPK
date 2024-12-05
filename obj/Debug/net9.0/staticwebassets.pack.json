@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\T transparent BG.png",
+      "PackagePath": "staticwebassets\\images\\T transparent BG.png"
+    },
+    {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\WhiteT.jpg",
+      "PackagePath": "staticwebassets\\images\\WhiteT.jpg"
+    },
+    {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\background-image.jpg",
       "PackagePath": "staticwebassets\\images\\background-image.jpg"
     },

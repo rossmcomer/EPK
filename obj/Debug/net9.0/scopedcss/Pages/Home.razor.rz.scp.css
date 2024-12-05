@@ -1,4 +1,15 @@
+.homeHeader[b-4rafesbqjl] {
+    color: var(--purple);
+    font-size: 100px;
+    margin: 0;
+}
+
 .homeDescription[b-4rafesbqjl] {
     color: var(--green);
     font-style: italic;
+    font-size:40px;
+}
+
+.brandLogo[b-4rafesbqjl] {
+    width: 300px;
 }
