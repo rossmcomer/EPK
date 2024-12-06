@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qml6p017ub</Fingerprint>
-      <Integrity>/sPtzFahtHCLObcwSH/n3+K1ihDxTc5yW1CLufVqnLo=</Integrity>
+      <Fingerprint>702d40fcg5</Fingerprint>
+      <Integrity>mUDP266HYWH/qsDaxXF3ziGXeVRSxd7ax3fYvW5wwts=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>teu7b8emt2</Fingerprint>
-      <Integrity>tQAmlTqr9h9VgRqPGtuzcIBDzcPwy9TNt8OMkWidBUk=</Integrity>
+      <Fingerprint>8um49f8uf8</Fingerprint>
+      <Integrity>YG6T3eiANfSjMj5lXvubUGbhQ/lhy3V/6VEnipaSoNc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vz44sbqpd9</Fingerprint>
-      <Integrity>tYVNHsOTuRGLcnUosy4cvI7OmTQwTt3xrwPAVmu974E=</Integrity>
+      <Fingerprint>46pcqy44hd</Fingerprint>
+      <Integrity>lJPI+3ZE3XGTEcNF1MsL8/Kv0MA9Vi1peCEUST9j6p4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css.map'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>g6uuuqm1r1</Fingerprint>
-      <Integrity>uOWLpfvQVkvNUJwfDOOYcNxeOHXE6+DwtuHdpmdntic=</Integrity>
+      <Fingerprint>yy704c6u44</Fingerprint>
+      <Integrity>WjxQvGR24ukolJNtL0A/6pzIzosM2HncNyup+Z8DAcg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EPK.styles.css'))</OriginalItemSpec>
@@ -89,6 +89,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\DINNextW1G-Regular.otf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EPK</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>fonts/DINNextW1G-Regular.otf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b1n084n8yz</Fingerprint>
+      <Integrity>n3yyKUtINjxqU3yShxLdrV8aDQPLvT2/Ful/jwiAyRo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\DINNextW1G-Regular.otf'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icon-192.png'))">
       <SourceType>Package</SourceType>

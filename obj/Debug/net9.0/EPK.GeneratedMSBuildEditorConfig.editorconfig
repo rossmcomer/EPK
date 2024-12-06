@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/yanke/Desktop/repos/EPK/Layout/FooterMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZvb3Rlck1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zfd729vfez
+
 [C:/Users/yanke/Desktop/repos/EPK/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-plawi4y5t5
@@ -51,3 +55,7 @@ build_metadata.AdditionalFiles.CssScope = b-43ftgg41zn
 [C:/Users/yanke/Desktop/repos/EPK/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-4rafesbqjl
+
+[C:/Users/yanke/Desktop/repos/EPK/Pages/Music.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c2ncbd5jlp
