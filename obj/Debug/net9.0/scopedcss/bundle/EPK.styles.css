@@ -124,6 +124,12 @@ ul[b-mok9vj1l5k] {
 }
 /* /Pages/Contact.razor.rz.scp.css */
 /* /Pages/Home.razor.rz.scp.css */
+.headerContent[b-4rafesbqjl] {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .homeHeader[b-4rafesbqjl] {
     color: var(--purple);
     font-size: 100px;

@@ -11855,7 +11855,8 @@ textarea.form-control-lg {
 .headerContainer {
   display: flex;
   width: 100%;
-  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
 }
 
 .pageHeader {
@@ -11877,3 +11878,5 @@ textarea.form-control-lg {
   border-top: 5px solid #6F00FF;
   margin-bottom: 20px;
 }
+
+/*# sourceMappingURL=style.css.map */

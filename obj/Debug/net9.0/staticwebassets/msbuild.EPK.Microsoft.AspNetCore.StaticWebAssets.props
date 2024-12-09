@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>672o15jh4r</Fingerprint>
-      <Integrity>ImbgvSrudVIW/t1wD3agDSrbB+0AaxoLR6g/uuuPhqo=</Integrity>
+      <Fingerprint>4psr5yz7du</Fingerprint>
+      <Integrity>CKfV8h0gMYAqXv2Fj6gBDO4Bg9KfNxYUCgmAWJaT1o0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>omsl5an1cm</Fingerprint>
-      <Integrity>0D65pK7Uh8SuydyON1ytFv/xxaZxWb6SyPwt1OKhFN0=</Integrity>
+      <Fingerprint>ilwmzov1fn</Fingerprint>
+      <Integrity>eh5zeN6GTXDX5RnVIpwrxWoPpff8zK3w7XLhkcPdABI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css.map'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>zofjumuavp</Fingerprint>
-      <Integrity>Mywuab3NX848PUhB940zA3wrbT6dv47tvQZP8lUZKJo=</Integrity>
+      <Fingerprint>0nka5gh1ik</Fingerprint>
+      <Integrity>/DtC+B5+ZkYfgvAtcLFIe+dCX6MFNPAoNLIr5Pgqu7w=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EPK.styles.css'))</OriginalItemSpec>
@@ -234,24 +234,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\spotify-icon.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\T transparent BG.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>EPK</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>/</BasePath>
-      <RelativePath>images/T transparent BG.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>vukkotkc6p</Fingerprint>
-      <Integrity>l5IMvaVTRAg9V4ZKV8PESdu8xXJl8S97plzvQ20eUL4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\T transparent BG.png'))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\TOER-brand.png'))">
       <SourceType>Package</SourceType>
       <SourceId>EPK</SourceId>
@@ -264,11 +246,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yus4k8gdob</Fingerprint>
-      <Integrity>Gl8Hg4rj99kyue86Q4pppTECZ5Uq/5AVTXsxkIwmnys=</Integrity>
+      <Fingerprint>2fjw9olp4f</Fingerprint>
+      <Integrity>sjxSmExFWRuOnMSPmLtYbOPee4qp3yqXOOdhC0yr104=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\TOER-brand.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\TOER-brand-cropped.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>EPK</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>images/TOER-brand-cropped.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>6stmisp0kg</Fingerprint>
+      <Integrity>uu2rNk65LIGWIDddde2ASODTmuNJazC6+oHu+kpRgn8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\TOER-brand-cropped.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\x-icon.png'))">
       <SourceType>Package</SourceType>
