@@ -29,10 +29,6 @@
       "PackagePath": "staticwebassets\\fonts\\DINNextW1G-Regular.otf"
     },
     {
-      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
-    },
-    {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\TOER-brand-cropped.png",
       "PackagePath": "staticwebassets\\images\\TOER-brand-cropped.png"
     },
@@ -55,6 +51,10 @@
     {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\itunes-icon.png",
       "PackagePath": "staticwebassets\\images\\itunes-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\snapchat-icon.png",
+      "PackagePath": "staticwebassets\\images\\snapchat-icon.png"
     },
     {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\soundcloud-icon.png",
@@ -251,6 +251,10 @@
     {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\socialMediaLinks.json",
+      "PackagePath": "staticwebassets\\socialMediaLinks.json"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EPK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

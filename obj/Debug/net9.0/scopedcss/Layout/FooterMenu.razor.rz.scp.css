@@ -19,10 +19,10 @@
 .nav-item[b-zfd729vfez]  a {
     color: var(--white);
     border-radius: 4px;
-    height: 3rem;
+    height: 2rem;
     display: flex;
     align-items: center;
-    line-height: 3rem;
+    line-height: 2rem;
 }
 
 .nav-item[b-zfd729vfez]  a.active {
