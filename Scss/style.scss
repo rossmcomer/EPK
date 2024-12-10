@@ -5,15 +5,27 @@ $green: #00e689;
 $pink: #ff00f7;
 $orange: #FF6A00;
 $black: #131313;
+$white: rgb(233, 233, 233);
 $transition-color: 0.4s color ease;
 $opaque-white: rgba(240, 250, 255, 0.6);
 
+@keyframes slideIn {
+    0% {
+        transform: translateY(-200%);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
 .pageContainer {
     width: 67%;
+    top:-100%;
     display:flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    animation: slideIn 0.5s ease-in-out forwards;
 }
 
 .headerContainer {

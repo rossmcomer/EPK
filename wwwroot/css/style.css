@@ -11844,12 +11844,22 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+@keyframes slideIn {
+  0% {
+    transform: translateY(-200%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
 .pageContainer {
   width: 67%;
+  top: -100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  animation: slideIn 0.5s ease-in-out forwards;
 }
 
 .headerContainer {
@@ -11878,5 +11888,3 @@ textarea.form-control-lg {
   border-top: 5px solid #6F00FF;
   margin-bottom: 20px;
 }
-
-/*# sourceMappingURL=style.css.map */

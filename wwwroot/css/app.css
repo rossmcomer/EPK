@@ -4,6 +4,7 @@
     --pink: #ff00f7;
     --orange: #FF6A00;
     --black: #131313;
+    --white: rgb(233, 233, 233);
     --color-trans:0.4s color ease;
     --opaque-white: #f0faff99;
 }
