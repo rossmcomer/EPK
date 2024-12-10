@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Facebook",
+        "image": "/images/facebook-icon.png",
+        "url": "https://www.facebook.com/TOERmusic"
+    },
+    {
+        "name": "Youtube",
+        "image": "/images/facebook-icon.png",
+        "url": "https://www.youtube.com/TOERmusic"
+    },
+    {
+        "name": "SoundCloud",
+        "image": "/images/soundcloud-icon.png",
+        "url": "https://www.soundcloud.com/TOERmusic"
+    },
+    {
+        "name": "Spotify",
+        "image": "/images/spotify-icon.png",
+        "url": "https://open.spotify.com/artist/5P39Ra6cUO65JQTm5cFF0G"
+    },
+    {
+        "name": "iTunes",
+        "image": "/images/itunes-icon.png",
+        "url": "https://music.apple.com/in/artist/toer/625737081"
+    },
+    {
+        "name": "Instagram",
+        "image": "/images/instagram-icon.png",
+        "url": "http://instagram.com/TOERmusic"
+    },
+    {
+        "name": "Snapchat",
+        "image": "/images/snapchat-icon.png",
+        "url": "https://www.snapchat.com/add/toerxl"
+    },
+    {
+        "name": "X",
+        "image": "/images/x-icon.png",
+        "url": "http://twitter.com/TOERmusic"
+    }
+]
