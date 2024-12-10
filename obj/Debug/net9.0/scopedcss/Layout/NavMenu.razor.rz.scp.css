@@ -1,6 +1,5 @@
 .navContainer[b-0gawv88y7r] {
     width: 67%;
-    background-color: var(--opaque-white);
     display:flex;
     justify-content: space-between;
 }
@@ -75,4 +74,5 @@
 .socialMediaImage[b-0gawv88y7r] {
     height: 30px;
     width: 30px;
+    margin: 0px 4px;
 }

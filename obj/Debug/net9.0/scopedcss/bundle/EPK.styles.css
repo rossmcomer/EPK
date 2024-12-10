@@ -2,11 +2,11 @@
 .footerNavContainer[b-zfd729vfez] {
     display:flex;
     flex-direction: column;
-    align-items: flex-start;
-    width: 67%;
+    align-items: center;
+    width: 100%;
     top:-100%;
     justify-content: center;
-    margin-left: 40px;
+    margin-bottom: 40px;
 }
 
 .footerNav[b-zfd729vfez] {
@@ -47,6 +47,9 @@
 .header[b-plawi4y5t5] {
     width: 100%;
     z-index: 100;
+    background-color: var(--opaque-white);
+    display:flex;
+    justify-content: center;
 }
 
 main[b-plawi4y5t5] {
@@ -65,7 +68,6 @@ main[b-plawi4y5t5] {
 /* /Layout/NavMenu.razor.rz.scp.css */
 .navContainer[b-0gawv88y7r] {
     width: 67%;
-    background-color: var(--opaque-white);
     display:flex;
     justify-content: space-between;
 }
@@ -140,6 +142,7 @@ main[b-plawi4y5t5] {
 .socialMediaImage[b-0gawv88y7r] {
     height: 30px;
     width: 30px;
+    margin: 0px 4px;
 }
 /* /Pages/Bio.razor.rz.scp.css */
 .bioText[b-mok9vj1l5k] {

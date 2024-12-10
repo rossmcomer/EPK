@@ -9,6 +9,9 @@
 .header[b-plawi4y5t5] {
     width: 100%;
     z-index: 100;
+    background-color: var(--opaque-white);
+    display:flex;
+    justify-content: center;
 }
 
 main[b-plawi4y5t5] {
