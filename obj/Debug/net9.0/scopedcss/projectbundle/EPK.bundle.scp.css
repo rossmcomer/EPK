@@ -64,16 +64,16 @@ main[b-plawi4y5t5] {
 }
 /* /Layout/NavMenu.razor.rz.scp.css */
 .navContainer[b-0gawv88y7r] {
-    width: 100%;
+    width: 67%;
     background-color: var(--opaque-white);
     display:flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .nav[b-0gawv88y7r] {
     width: 67%;
     display:flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .bi[b-0gawv88y7r] {
@@ -130,6 +130,16 @@ main[b-plawi4y5t5] {
 .nav-item[b-0gawv88y7r]  a:hover {
     color: var(--green);
     transition: var(--color-trans);
+}
+
+.socialMediaLinks[b-0gawv88y7r] {
+    display:flex;
+    align-items: center;
+}
+
+.socialMediaImage[b-0gawv88y7r] {
+    height: 30px;
+    width: 30px;
 }
 /* /Pages/Bio.razor.rz.scp.css */
 .bioText[b-mok9vj1l5k] {

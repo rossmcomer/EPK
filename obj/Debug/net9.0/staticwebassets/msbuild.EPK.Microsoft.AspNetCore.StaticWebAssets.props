@@ -1128,8 +1128,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>lf5md5gupg</Fingerprint>
-      <Integrity>AaaX75mNC/FzR3URzkA84C6mgAp9+HGtM8wPwtfyBYQ=</Integrity>
+      <Fingerprint>0rgcv55ssf</Fingerprint>
+      <Integrity>zOIKpZ5s4KZ6sxKHBNlht2HlbwAv2+dYjJUYLtTiwl4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\socialMediaLinks.json'))</OriginalItemSpec>

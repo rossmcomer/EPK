@@ -1,14 +1,14 @@
 .navContainer {
-    width: 100%;
+    width: 67%;
     background-color: var(--opaque-white);
     display:flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .nav {
     width: 67%;
     display:flex;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 
 .bi {
@@ -65,4 +65,14 @@
 .nav-item ::deep a:hover {
     color: var(--green);
     transition: var(--color-trans);
+}
+
+.socialMediaLinks {
+    display:flex;
+    align-items: center;
+}
+
+.socialMediaImage {
+    height: 30px;
+    width: 30px;
 }
