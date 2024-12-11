@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fw2vvua1wf</Fingerprint>
-      <Integrity>b7dgcT03upY4MTgquaO25pEChoJ6krqSEPcpujTFglw=</Integrity>
+      <Fingerprint>fontolwbtv</Fingerprint>
+      <Integrity>4ZZMwL8fqHX52t7DpPmlY8KbZvKKwA0GyLGPTFCivFU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>z47muhaogi</Fingerprint>
-      <Integrity>oy9aaJIW6sYnsugAy+weHwncyOyNnPZxFS9u2hSw/Qg=</Integrity>
+      <Fingerprint>5nzxzc59um</Fingerprint>
+      <Integrity>T4pVeFzjNI6E4bTexlzVj+z6NBMUYHGYYbTbF0Be5w0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EPK.styles.css'))</OriginalItemSpec>
@@ -156,8 +156,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0p14an44pr</Fingerprint>
-      <Integrity>bNhNE4opZ4SjJ6f0OPNfqtXkSEeTHCKXetUM/eExz7A=</Integrity>
+      <Fingerprint>ipjf5vlxlg</Fingerprint>
+      <Integrity>el2DSLqEUCy2zGmkBbt3qPqntjuj8avgFm8IKFAvyUE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\instagram-icon.png'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>erkn1vqcgq</Fingerprint>
-      <Integrity>JhrhEhZ2T2u5VBi3EkdNOm4nHn9Cnjj+z0o+63qVzjA=</Integrity>
+      <Fingerprint>ojyfwwjjmn</Fingerprint>
+      <Integrity>pOyi5lP4g/pllCp68pstTnQ1clJLwF7/RmToqYKbnTg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\itunes-icon.png'))</OriginalItemSpec>
@@ -282,8 +282,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5c82bo469i</Fingerprint>
-      <Integrity>S15Cbgky0R3C5bChofcRfrYBKlN+iMm5D2mv7W/EjFo=</Integrity>
+      <Fingerprint>99a3b2vb1m</Fingerprint>
+      <Integrity>U8aFfM2ZVpyNfhCEOctmiVUdHupnTMRUNlK2X30retQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\x-icon.png'))</OriginalItemSpec>

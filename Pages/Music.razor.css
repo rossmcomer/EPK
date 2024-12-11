@@ -8,3 +8,7 @@
     text-overflow: ellipsis; 
     font-weight: 100;
 }
+
+iframe {
+    border-radius: 5px
+}
