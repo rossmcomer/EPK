@@ -33,7 +33,7 @@
     {
         @foreach (var link in SocialMediaLinks)
         {
-            <a href="@link.Url" target="_blank" title="@link.Name">
+            <a href="@link.Url" target="_blank" title="@link.Name" class="imgWrapper">
                 <img src="@link.Image" alt="@link.Name Icon" class="socialMediaImage"/>
             </a>
         }

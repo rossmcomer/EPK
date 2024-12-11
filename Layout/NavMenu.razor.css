@@ -71,6 +71,15 @@
     align-items: center;
 }
 
+.imgWrapper {
+    overflow: hidden;
+}
+
+.imgWrapper:hover {
+    transform: scale(1.3);
+    transition: transform 0.3s ease-in-out; 
+}
+
 .socialMediaImage {
     height: 30px;
     width: 30px;
