@@ -1,9 +1,9 @@
 .page {
     display: flex;
     flex-direction: column;
-    background: url(/images/background-image.jpg) no-repeat center center / cover;
     height: 100%;
     width: 100%;
+    overflow: auto;
 }
 
 .header {
@@ -12,6 +12,7 @@
     background-color: var(--opaque-white);
     display:flex;
     justify-content: center;
+    position: fixed;
 }
 
 main {
