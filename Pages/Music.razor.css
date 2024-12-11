@@ -1,0 +1,10 @@
+.playlistFooter {
+    font-size: 10px; 
+    color: #6F00FF;
+    line-break: anywhere;
+    word-break: normal;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+    font-weight: 100;
+}
