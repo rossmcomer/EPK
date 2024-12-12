@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Components;
 
 namespace EPK.Models
 {
-    public partial class Contact : ComponentBase
+    public partial class ContactForm : ComponentBase
     {
         private ContactFormModel ContactFormModel { get; set; } = new ContactFormModel();
 

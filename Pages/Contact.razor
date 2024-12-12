@@ -1,5 +1,5 @@
 ﻿@page "/contact"
-@inherits Contact
+@inherits ContactForm
 
 <PageTitle>CONTACT | TOER</PageTitle>
 
@@ -15,38 +15,6 @@
         <div class="contactText">
             General Inquiries:  info@toermusic.com
         </div>
-        <EditForm Model="ContactFormModel" OnValidSubmit="HandleSubmit">
-            <h2>Send Us a Message</h2>
-
-            <!-- Email Selection Buttons -->
-            <div class="emailSelection">
-                <button type="button" class="@GetButtonClass("bookings@toermusic.com")" 
-                        @onclick="() => SelectRecipient("bookings@toermusic.com")">
-                    Bookings
-                </button>
-                <button type="button" class="@GetButtonClass("info@toermusic.com")" 
-                        @onclick="() => SelectRecipient("info@toermusic.com")">
-                    General Inquiries
-                </button>
-            </div>
-
-            <!-- Title Input -->
-            <div class="formGroup">
-                <label for="title">Title:</label>
-                <InputText id="title" class="form-control" @bind-Value="ContactFormModel.Title" required />
-            </div>
-
-            <!-- Message Input -->
-            <div class="formGroup">
-                <label for="message">Message:</label>
-                <InputTextArea id="message" class="form-control" @bind-Value="ContactFormModel.Message" rows="5" required />
-            </div>
-
-            <!-- Submit Button -->
-            <div class="formGroup">
-                <button type="submit" class="btn btn-primary">Send Message</button>
-            </div>
-        </EditForm>
     </div>
 </div>
 
