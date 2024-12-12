@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>oetb3rg494</Fingerprint>
-      <Integrity>YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=</Integrity>
+      <Fingerprint>w2rkcdn85z</Fingerprint>
+      <Integrity>6Olls4jtc7HRQ4nWhBpEtn2TxwqrwNqDCFXi1gR3fpo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EPK.styles.css'))</OriginalItemSpec>

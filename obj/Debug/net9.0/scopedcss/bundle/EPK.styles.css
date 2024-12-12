@@ -71,12 +71,23 @@ main[b-plawi4y5t5] {
     width: 67%;
     display:flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .nav[b-0gawv88y7r] {
     width: 67%;
     display:flex;
     justify-content: flex-start;
+}
+
+@media (max-width: 1500px) {
+    .navContainer[b-0gawv88y7r] {
+        justify-content: center;
+    }
+
+    .nav[b-0gawv88y7r] {
+        justify-content: center;
+    }
 }
 
 .bi[b-0gawv88y7r] {
@@ -134,6 +145,7 @@ main[b-plawi4y5t5] {
 .socialMediaLinks[b-0gawv88y7r] {
     display:flex;
     align-items: center;
+    justify-content: center;
 }
 
 .imgWrapper[b-0gawv88y7r] {
@@ -148,7 +160,7 @@ main[b-plawi4y5t5] {
 .socialMediaImage[b-0gawv88y7r] {
     height: 35px;
     width: 35px;
-    margin: 0px 4px;
+    margin: 4px;
 }
 /* /Pages/Bio.razor.rz.scp.css */
 .bioText[b-mok9vj1l5k] {
@@ -165,8 +177,8 @@ ul[b-mok9vj1l5k] {
 .contactText[b-43ftgg41zn] {
     font-style: italic;
     font-size: 18px;
-    margin-bottom: 30px;
     font-weight: 500;
+    margin: 5px 0px;
 }
 /* /Pages/Home.razor.rz.scp.css */
 .headerContent[b-4rafesbqjl] {

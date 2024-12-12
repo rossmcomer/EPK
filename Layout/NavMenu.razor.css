@@ -2,12 +2,23 @@
     width: 67%;
     display:flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .nav {
     width: 67%;
     display:flex;
     justify-content: flex-start;
+}
+
+@media (max-width: 1500px) {
+    .navContainer {
+        justify-content: center;
+    }
+
+    .nav {
+        justify-content: center;
+    }
 }
 
 .bi {
@@ -65,6 +76,7 @@
 .socialMediaLinks {
     display:flex;
     align-items: center;
+    justify-content: center;
 }
 
 .imgWrapper {
@@ -79,5 +91,5 @@
 .socialMediaImage {
     height: 35px;
     width: 35px;
-    margin: 0px 4px;
+    margin: 4px;
 }
