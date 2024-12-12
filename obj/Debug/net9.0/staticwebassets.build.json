@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F5/nzgQ96SQa9mfpyKVsVpeUJ4YFhu6Hm8KiF8eAezo=",
+  "Hash": "Tb/AAw4KebXliWLSlAltEX0x8cuA9qhw/vRU3YRXrD0=",
   "Source": "EPK",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "7z3p2071td",
-      "Integrity": "nS2itndjQnWyK0/KDDsPaaAxmrezPsedQENeJ+GBCXM=",
+      "Fingerprint": "haq1vbveqt",
+      "Integrity": "WTYZ6sWBNoFL9yH8jJkBe9BhOMUsQD8KB/pKqk0P8x4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "yr8vwpjzhi",
-      "Integrity": "0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ=",
+      "Fingerprint": "aokn1p691q",
+      "Integrity": "lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\EPK.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "a1r57rsmrf",
-      "Integrity": "Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U=",
+      "Fingerprint": "4wdpcvcicf",
+      "Integrity": "lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\webcil\\EPK.wasm"
@@ -4532,7 +4532,7 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\27rsoe1p7v-7z3p2071td.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\27rsoe1p7v-haq1vbveqt.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\",
@@ -4546,8 +4546,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "x9fqjilycl",
-      "Integrity": "1RqqWGfx1TRGX7hm5TbLDdE0TsDZWo7proNHIm7Jbco=",
+      "Fingerprint": "li83tcfiu1",
+      "Integrity": "3ap9tbj5v/UM0rrfSSsisyLHi9sSV2kTABgRN/AmAso=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -6107,12 +6107,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.wasm"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-55my1qq70c.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-oetb3rg494.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "EPK#[.{fingerprint=55my1qq70c}]?.styles.css.gz",
+      "RelativePath": "EPK#[.{fingerprint=oetb3rg494}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -6121,8 +6121,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\bundle\\EPK.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vcne3v52vg",
-      "Integrity": "QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=",
+      "Fingerprint": "0rl96ypt8g",
+      "Integrity": "pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\bundle\\EPK.styles.css"
@@ -6506,12 +6506,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Xml.Linq.wasm"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-55my1qq70c.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-oetb3rg494.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "EPK#[.{fingerprint=55my1qq70c}]!.bundle.scp.css.gz",
+      "RelativePath": "EPK#[.{fingerprint=oetb3rg494}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -6520,8 +6520,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EPK.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vcne3v52vg",
-      "Integrity": "QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=",
+      "Fingerprint": "0rl96ypt8g",
+      "Integrity": "pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EPK.bundle.scp.css"
@@ -8690,12 +8690,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.Security.wasm"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-yr8vwpjzhi.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-aokn1p691q.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EPK#[.{fingerprint=yr8vwpjzhi}]!.pdb.gz",
+      "RelativePath": "_framework/EPK#[.{fingerprint=aokn1p691q}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "suwlcouky0",
-      "Integrity": "lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA=",
+      "Fingerprint": "7zaguc88pr",
+      "Integrity": "k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.pdb"
@@ -9425,12 +9425,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-a1r57rsmrf.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-4wdpcvcicf.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EPK#[.{fingerprint=a1r57rsmrf}]!.wasm.gz",
+      "RelativePath": "_framework/EPK#[.{fingerprint=4wdpcvcicf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9439,8 +9439,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "279gbwa1w2",
-      "Integrity": "jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY=",
+      "Fingerprint": "kfhe5bz1gh",
+      "Integrity": "wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.wasm"
@@ -9691,8 +9691,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "55my1qq70c",
-      "Integrity": "Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=",
+      "Fingerprint": "oetb3rg494",
+      "Integrity": "YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\bundle\\EPK.styles.css"
@@ -9712,8 +9712,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "55my1qq70c",
-      "Integrity": "Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=",
+      "Fingerprint": "oetb3rg494",
+      "Integrity": "YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EPK.bundle.scp.css"
@@ -11041,7 +11041,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nS2itndjQnWyK0/KDDsPaaAxmrezPsedQENeJ+GBCXM=\""
+          "Value": "\"WTYZ6sWBNoFL9yH8jJkBe9BhOMUsQD8KB/pKqk0P8x4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WTYZ6sWBNoFL9yH8jJkBe9BhOMUsQD8KB/pKqk0P8x4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\27rsoe1p7v-haq1vbveqt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081254571"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ap9tbj5v/UM0rrfSSsisyLHi9sSV2kTABgRN/AmAso=\""
         },
         {
           "Name": "Last-Modified",
@@ -11050,45 +11089,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nS2itndjQnWyK0/KDDsPaaAxmrezPsedQENeJ+GBCXM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\27rsoe1p7v-7z3p2071td.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081247969"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12307"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1RqqWGfx1TRGX7hm5TbLDdE0TsDZWo7proNHIm7Jbco=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -11104,19 +11104,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nS2itndjQnWyK0/KDDsPaaAxmrezPsedQENeJ+GBCXM=\""
+          "Value": "W/\"WTYZ6sWBNoFL9yH8jJkBe9BhOMUsQD8KB/pKqk0P8x4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nS2itndjQnWyK0/KDDsPaaAxmrezPsedQENeJ+GBCXM="
+          "Value": "sha256-WTYZ6sWBNoFL9yH8jJkBe9BhOMUsQD8KB/pKqk0P8x4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\27rsoe1p7v-7z3p2071td.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\27rsoe1p7v-haq1vbveqt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11125,7 +11125,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12307"
+          "Value": "12306"
         },
         {
           "Name": "Content-Type",
@@ -11133,11 +11133,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1RqqWGfx1TRGX7hm5TbLDdE0TsDZWo7proNHIm7Jbco=\""
+          "Value": "\"3ap9tbj5v/UM0rrfSSsisyLHi9sSV2kTABgRN/AmAso=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:23 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11155,7 +11155,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1RqqWGfx1TRGX7hm5TbLDdE0TsDZWo7proNHIm7Jbco="
+          "Value": "sha256-3ap9tbj5v/UM0rrfSSsisyLHi9sSV2kTABgRN/AmAso="
         }
       ]
     },
@@ -13085,7 +13085,7 @@
       ]
     },
     {
-      "Route": "_framework/EPK.a1r57rsmrf.wasm",
+      "Route": "_framework/EPK.4wdpcvcicf.wasm",
       "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13103,11 +13103,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U=\""
+          "Value": "\"lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:07 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13117,7 +13117,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a1r57rsmrf"
+          "Value": "4wdpcvcicf"
         },
         {
           "Name": "label",
@@ -13125,18 +13125,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U="
+          "Value": "sha256-lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY="
         }
       ]
     },
     {
-      "Route": "_framework/EPK.a1r57rsmrf.wasm",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-a1r57rsmrf.gz",
+      "Route": "_framework/EPK.4wdpcvcicf.wasm",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-4wdpcvcicf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110643948"
+          "Quality": "0.000110631707"
         }
       ],
       "ResponseHeaders": [
@@ -13146,15 +13146,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9037"
+          "Value": "9038"
         },
         {
           "Name": "ETag",
-          "Value": "\"jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY=\""
+          "Value": "\"wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13174,13 +13174,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U=\""
+          "Value": "W/\"lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a1r57rsmrf"
+          "Value": "4wdpcvcicf"
         },
         {
           "Name": "label",
@@ -13188,13 +13188,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U="
+          "Value": "sha256-lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY="
         }
       ]
     },
     {
-      "Route": "_framework/EPK.a1r57rsmrf.wasm.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-a1r57rsmrf.gz",
+      "Route": "_framework/EPK.4wdpcvcicf.wasm.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-4wdpcvcicf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13203,7 +13203,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9037"
+          "Value": "9038"
         },
         {
           "Name": "Content-Type",
@@ -13211,11 +13211,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY=\""
+          "Value": "\"wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13233,7 +13233,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "a1r57rsmrf"
+          "Value": "4wdpcvcicf"
         },
         {
           "Name": "label",
@@ -13241,7 +13241,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY="
+          "Value": "sha256-wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EPK.aokn1p691q.pdb",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:32:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aokn1p691q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EPK.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EPK.aokn1p691q.pdb",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-aokn1p691q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000050160514"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aokn1p691q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EPK.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EPK.aokn1p691q.pdb.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-aokn1p691q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aokn1p691q"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EPK.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI="
         }
       ]
     },
@@ -13264,11 +13425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ=\""
+          "Value": "\"lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:07 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13278,18 +13439,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ="
+          "Value": "sha256-lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw="
         }
       ]
     },
     {
       "Route": "_framework/EPK.pdb",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-yr8vwpjzhi.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-aokn1p691q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000050157998"
+          "Quality": "0.000050160514"
         }
       ],
       "ResponseHeaders": [
@@ -13299,15 +13460,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19936"
+          "Value": "19935"
         },
         {
           "Name": "ETag",
-          "Value": "\"lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA=\""
+          "Value": "\"k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13327,19 +13488,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ=\""
+          "Value": "W/\"lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ="
+          "Value": "sha256-lvIX3yC/ZY+Azdpq5IHvgRlC974fOOhl6aZWp0939Kw="
         }
       ]
     },
     {
       "Route": "_framework/EPK.pdb.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-yr8vwpjzhi.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-aokn1p691q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13348,7 +13509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19936"
+          "Value": "19935"
         },
         {
           "Name": "Content-Type",
@@ -13356,11 +13517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA=\""
+          "Value": "\"k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13378,7 +13539,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA="
+          "Value": "sha256-k6kL+mNUYFlY69Y/k8C9q0VcUWCpRMLFX220mCMFmgI="
         }
       ]
     },
@@ -13401,11 +13562,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U=\""
+          "Value": "\"lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:07 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13415,18 +13576,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U="
+          "Value": "sha256-lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY="
         }
       ]
     },
     {
       "Route": "_framework/EPK.wasm",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-a1r57rsmrf.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-4wdpcvcicf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000110643948"
+          "Quality": "0.000110631707"
         }
       ],
       "ResponseHeaders": [
@@ -13436,15 +13597,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9037"
+          "Value": "9038"
         },
         {
           "Name": "ETag",
-          "Value": "\"jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY=\""
+          "Value": "\"wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13464,19 +13625,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U=\""
+          "Value": "W/\"lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Hgt905+/AMAGC1kWz6F4ejTjfaY/6QdQjc2f2ZcZZ8U="
+          "Value": "sha256-lLq8gykVVGg0NoXs7mhKzyS85F2dlzIi0vNcybRyYSY="
         }
       ]
     },
     {
       "Route": "_framework/EPK.wasm.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-a1r57rsmrf.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\xvdmz5djzx-4wdpcvcicf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13485,7 +13646,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9037"
+          "Value": "9038"
         },
         {
           "Name": "Content-Type",
@@ -13493,11 +13654,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY=\""
+          "Value": "\"wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
+          "Value": "Thu, 12 Dec 2024 22:32:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13515,168 +13676,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jt2GldPoOyFsuVWQBIyoyEDzHZb5QUXFhpbxJ6gllGY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EPK.yr8vwpjzhi.pdb",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EPK.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26784"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yr8vwpjzhi"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EPK.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EPK.yr8vwpjzhi.pdb",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-yr8vwpjzhi.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000050157998"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19936"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yr8vwpjzhi"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EPK.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0q3BgqII2Q+kI+G/tLTWQ+TYssHs+B6Wup1VrSAP7GQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EPK.yr8vwpjzhi.pdb.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\t3d48q9oaw-yr8vwpjzhi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19936"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 22:31:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yr8vwpjzhi"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EPK.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lGV162VuBvRwUPOcWbtVnYd7LlH+0ReZyADqFanXgyA="
+          "Value": "sha256-wPDg9uC0zJdUDGbZGi3mtyJNwBafJGeEdQl5soaJu4g="
         }
       ]
     },
@@ -71815,7 +71815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:31 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71876,7 +71876,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:31 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71921,7 +71921,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:31 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71976,7 +71976,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:31 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72029,7 +72029,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:31 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72066,7 +72066,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 22:00:31 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72387,13 +72387,13 @@
       ]
     },
     {
-      "Route": "EPK.55my1qq70c.bundle.scp.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-55my1qq70c.gz",
+      "Route": "EPK.bundle.scp.css",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-oetb3rg494.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000592417062"
+          "Quality": "0.000593119810"
         }
       ],
       "ResponseHeaders": [
@@ -72403,19 +72403,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1687"
+          "Value": "1685"
         },
         {
           "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -72431,26 +72431,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
+          "Value": "W/\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "55my1qq70c"
-        },
-        {
-          "Name": "label",
-          "Value": "EPK.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
         }
       ]
     },
     {
-      "Route": "EPK.55my1qq70c.bundle.scp.css",
+      "Route": "EPK.bundle.scp.css",
       "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EPK.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72460,7 +72452,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5744"
+          "Value": "5745"
         },
         {
           "Name": "Content-Type",
@@ -72468,11 +72460,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
+          "Value": "\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
+        }
+      ]
+    },
+    {
+      "Route": "EPK.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-oetb3rg494.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ="
+        }
+      ]
+    },
+    {
+      "Route": "EPK.oetb3rg494.bundle.scp.css",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-oetb3rg494.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000593119810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1685"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oetb3rg494"
+        },
+        {
+          "Name": "label",
+          "Value": "EPK.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
+        }
+      ]
+    },
+    {
+      "Route": "EPK.oetb3rg494.bundle.scp.css",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EPK.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72482,7 +72619,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55my1qq70c"
+          "Value": "oetb3rg494"
         },
         {
           "Name": "label",
@@ -72490,13 +72627,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
         }
       ]
     },
     {
-      "Route": "EPK.55my1qq70c.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-55my1qq70c.gz",
+      "Route": "EPK.oetb3rg494.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-oetb3rg494.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72505,7 +72642,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1687"
+          "Value": "1685"
         },
         {
           "Name": "Content-Type",
@@ -72513,11 +72650,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72535,7 +72672,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55my1qq70c"
+          "Value": "oetb3rg494"
         },
         {
           "Name": "label",
@@ -72543,18 +72680,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8="
+          "Value": "sha256-pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ="
         }
       ]
     },
     {
-      "Route": "EPK.55my1qq70c.styles.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-55my1qq70c.gz",
+      "Route": "EPK.oetb3rg494.styles.css",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-oetb3rg494.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000592417062"
+          "Quality": "0.000593119810"
         }
       ],
       "ResponseHeaders": [
@@ -72564,15 +72701,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1687"
+          "Value": "1685"
         },
         {
           "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72592,13 +72729,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
+          "Value": "W/\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55my1qq70c"
+          "Value": "oetb3rg494"
         },
         {
           "Name": "label",
@@ -72606,12 +72743,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
         }
       ]
     },
     {
-      "Route": "EPK.55my1qq70c.styles.css",
+      "Route": "EPK.oetb3rg494.styles.css",
       "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\bundle\\EPK.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72621,7 +72758,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5744"
+          "Value": "5745"
         },
         {
           "Name": "Content-Type",
@@ -72629,11 +72766,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
+          "Value": "\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72643,7 +72780,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55my1qq70c"
+          "Value": "oetb3rg494"
         },
         {
           "Name": "label",
@@ -72651,13 +72788,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
         }
       ]
     },
     {
-      "Route": "EPK.55my1qq70c.styles.css.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-55my1qq70c.gz",
+      "Route": "EPK.oetb3rg494.styles.css.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-oetb3rg494.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72666,7 +72803,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1687"
+          "Value": "1685"
         },
         {
           "Name": "Content-Type",
@@ -72674,11 +72811,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72696,7 +72833,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "55my1qq70c"
+          "Value": "oetb3rg494"
         },
         {
           "Name": "label",
@@ -72704,155 +72841,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8="
-        }
-      ]
-    },
-    {
-      "Route": "EPK.bundle.scp.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-55my1qq70c.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000592417062"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1687"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
-        }
-      ]
-    },
-    {
-      "Route": "EPK.bundle.scp.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\EPK.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5744"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
-        }
-      ]
-    },
-    {
-      "Route": "EPK.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\e9j19exaz9-55my1qq70c.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1687"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8="
+          "Value": "sha256-pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ="
         }
       ]
     },
     {
       "Route": "EPK.styles.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-55my1qq70c.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-oetb3rg494.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000592417062"
+          "Quality": "0.000593119810"
         }
       ],
       "ResponseHeaders": [
@@ -72862,15 +72862,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1687"
+          "Value": "1685"
         },
         {
           "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72890,13 +72890,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
+          "Value": "W/\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
         }
       ]
     },
@@ -72911,7 +72911,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5744"
+          "Value": "5745"
         },
         {
           "Name": "Content-Type",
@@ -72919,11 +72919,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc=\""
+          "Value": "\"YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72933,13 +72933,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Z7Kt6jvjCqzKtrw1X79gqaW1hOGbAON7bwFLmTLfRUc="
+          "Value": "sha256-YGdo6O1cRFvf2CiLDAVPZaYYA0/PwrCPKlnLgzbMG/Y="
         }
       ]
     },
     {
       "Route": "EPK.styles.css.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-55my1qq70c.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Debug\\net9.0\\compressed\\bwprf69mwd-oetb3rg494.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72948,7 +72948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1687"
+          "Value": "1685"
         },
         {
           "Name": "Content-Type",
@@ -72956,11 +72956,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8=\""
+          "Value": "\"pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 19:23:42 GMT"
+          "Value": "Thu, 12 Dec 2024 22:31:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72978,7 +72978,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QQMIseiM05W/k+xQ2gmw63E8ZLVtfZ3oPh2h9Ben5j8="
+          "Value": "sha256-pMsHx5YJQv2fNXZRHprD8uR84ZIuKj0FwKutRtVNWfQ="
         }
       ]
     },

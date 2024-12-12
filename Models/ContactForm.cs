@@ -1,13 +1,5 @@
-using Microsoft.AspNetCore.Components;
-
 namespace EPK.Models
 {
-    public partial class ContactForm : ComponentBase
-    {
-        private ContactFormModel ContactFormModel { get; set; } = new ContactFormModel();
-
-    }
-
     public class ContactFormModel
     {
         public string? RecipientEmail { get; set; }

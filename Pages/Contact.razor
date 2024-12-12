@@ -1,5 +1,4 @@
 ﻿@page "/contact"
-@inherits ContactForm
 
 <PageTitle>CONTACT | TOER</PageTitle>
 
@@ -15,35 +14,47 @@
         <div class="contactText">
             General Inquiries:  info@toermusic.com
         </div>
+        <div class="contactFormContainer">
+            <form @onsubmit="HandleSubmit">
+                <div class="form-group">
+                    <label for="recipient">Recipient</label>
+                    <select id="recipient" class="form-control" @bind="ContactForm.RecipientEmail">
+                        <option value="">Select a recipient</option>
+                        <option value="bookings@toermusic.com">Bookings</option>
+                        <option value="info@toermusic.com">General Inquiries</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="title">Title</label>
+                    <input id="title" class="form-control" @bind="ContactForm.Title" />
+                </div>
+                <div class="form-group">
+                    <label for="message">Message</label>
+                    <textarea id="message" class="form-control" @bind="ContactForm.Message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Send</button>
+            </form>
+        </div>
     </div>
 </div>
 
 @code {
+    private ContactFormModel ContactForm { get; set; } = new ContactFormModel();
 
-    @* // Method to set recipient email
-    private void SelectRecipient(string email)
-    {
-        ContactFormModel.RecipientEmail = email;
-    }
-
-    // Styling helper for button classes
-    private string GetButtonClass(string email) =>
-        ContactFormModel.RecipientEmail == email ? "selected btn btn-info" : "btn btn-outline-info";
-
-    // Method to handle form submission
     private async Task HandleSubmit()
     {
-        if (string.IsNullOrEmpty(ContactFormModel.RecipientEmail))
+        if (string.IsNullOrEmpty(ContactForm.RecipientEmail))
         {
-            // Handle case where no recipient is selected (e.g., show a validation message)
             Console.WriteLine("Please select a recipient.");
             return;
         }
 
-        // Here you would send the email or log the form data.
-        // Replace this with your actual email service or backend API call.
-        Console.WriteLine($"Email sent to: {ContactFormModel.RecipientEmail}");
-        Console.WriteLine($"Title: {ContactFormModel.Title}");
-        Console.WriteLine($"Message: {ContactFormModel.Message}");
-    } *@
+        // Simulate sending the email or handling the form submission.
+        Console.WriteLine($"Email sent to: {ContactForm.RecipientEmail}");
+        Console.WriteLine($"Title: {ContactForm.Title}");
+        Console.WriteLine($"Message: {ContactForm.Message}");
+
+        // Reset form fields (optional)
+        ContactForm = new ContactFormModel();
+    }
 }
