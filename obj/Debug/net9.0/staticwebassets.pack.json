@@ -37,6 +37,18 @@
       "PackagePath": "staticwebassets\\images\\TOER-brand.png"
     },
     {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\background-image-blurred.jpg",
+      "PackagePath": "staticwebassets\\images\\background-image-blurred.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\background-image-blurred.png",
+      "PackagePath": "staticwebassets\\images\\background-image-blurred.png"
+    },
+    {
+      "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\background-image-blurred.xcf",
+      "PackagePath": "staticwebassets\\images\\background-image-blurred.xcf"
+    },
+    {
       "Id": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\images\\background-image.jpg",
       "PackagePath": "staticwebassets\\images\\background-image.jpg"
     },
