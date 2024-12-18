@@ -185,6 +185,13 @@ ul[b-mok9vj1l5k] {
     display:flex;
     flex-direction: column;
     align-items: center;
+    position: relative; /* Enables offset positioning */
+    left: 0; /* Default left position */
+
+    /* Media query for screens larger than 400px */
+    @media (min-width: 400px) {
+        left: 20%;[b-4rafesbqjl]
+    }
 }
 
 .homeHeader[b-4rafesbqjl] {
@@ -192,6 +199,8 @@ ul[b-mok9vj1l5k] {
     font-size: 100px;
     margin: 0;
 }
+
+
 
 .homeDescription[b-4rafesbqjl] {
     color: var(--green);
