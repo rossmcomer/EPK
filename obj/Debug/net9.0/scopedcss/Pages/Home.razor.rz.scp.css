@@ -2,10 +2,9 @@
     display:flex;
     flex-direction: column;
     align-items: center;
-    position: relative; /* Enables offset positioning */
-    left: 0; /* Default left position */
+    position: relative;
+    left: 0;
 
-    /* Media query for screens larger than 400px */
     @media (min-width: 400px) {
         left: 20%;[b-4rafesbqjl]
     }
