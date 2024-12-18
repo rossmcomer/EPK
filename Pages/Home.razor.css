@@ -22,6 +22,7 @@
     color: var(--green);
     font-style: italic;
     font-size:40px;
+    white-space: nowrap;
 }
 
 .brandLogo {

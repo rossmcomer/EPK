@@ -1,8 +1,7 @@
 .navContainer {
     width: 67%;
     display:flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .nav {
@@ -12,12 +11,15 @@
     flex-wrap: nowrap;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1000px) {
     .navContainer {
         justify-content: center;
+        flex-direction: column;
+        align-items: center;
     }
 
     .nav {
+        width: 80%;
         justify-content: center;
     }
 }
