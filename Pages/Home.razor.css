@@ -4,10 +4,19 @@
     align-items: center;
     position: relative;
     left: 0;
+}
 
-    @media (min-width: 400px) {
+@media (min-width: 1080px) {
+    .headerContent {
         left: 20%;
     }
+}
+
+@media (max-width: 450px) {
+    .headerContent {
+    position: static;
+    justify-content: center;
+}
 }
 
 .homeHeader {

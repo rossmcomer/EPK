@@ -4,10 +4,19 @@
     align-items: center;
     position: relative;
     left: 0;
+}
 
-    @media (min-width: 400px) {
-        left: 20%;[b-4rafesbqjl]
+@media (min-width: 1080px) {
+    .headerContent[b-4rafesbqjl] {
+        left: 20%;
     }
+}
+
+@media (max-width: 450px) {
+    .headerContent[b-4rafesbqjl] {
+    position: static;
+    justify-content: center;
+}
 }
 
 .homeHeader[b-4rafesbqjl] {

@@ -11867,6 +11867,12 @@ textarea.form-control-lg {
   width: 100%;
   align-items: flex-start;
   flex-direction: column;
+  margin-top: 100px;
+}
+@media (max-width: 450px) {
+  .headerContainer {
+    align-items: center;
+  }
 }
 
 .pageHeader {
@@ -11888,3 +11894,5 @@ textarea.form-control-lg {
   border-top: 5px solid #6F00FF;
   margin-bottom: 20px;
 }
+
+/*# sourceMappingURL=style.css.map */
