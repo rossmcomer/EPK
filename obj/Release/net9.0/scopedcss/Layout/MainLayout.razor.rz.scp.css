@@ -1,0 +1,30 @@
+.page[b-plawi4y5t5] {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.header[b-plawi4y5t5] {
+    width: 100%;
+    z-index: 100;
+    background-color: var(--opaque-white);
+    display:flex;
+    justify-content: center;
+    position: fixed;
+}
+
+main[b-plawi4y5t5] {
+    flex: 1;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bodyContainer[b-plawi4y5t5] {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

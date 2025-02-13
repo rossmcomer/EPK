@@ -1,0 +1,39 @@
+.headerContent[b-4rafesbqjl] {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    left: 0;
+}
+
+@media (min-width: 1080px) {
+    .headerContent[b-4rafesbqjl] {
+        left: 20%;
+    }
+}
+
+@media (max-width: 450px) {
+    .headerContent[b-4rafesbqjl] {
+    position: static;
+    justify-content: center;
+}
+}
+
+.homeHeader[b-4rafesbqjl] {
+    color: var(--purple);
+    font-size: 100px;
+    margin: 0;
+}
+
+
+
+.homeDescription[b-4rafesbqjl] {
+    color: var(--green);
+    font-style: italic;
+    font-size:40px;
+    white-space: nowrap;
+}
+
+.brandLogo[b-4rafesbqjl] {
+    width: 200px;
+}
