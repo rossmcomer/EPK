@@ -22,15 +22,15 @@ jobs:
       run: dotnet restore
 
     - name: Build the app
-      run: dotnet build --configuration Release
+      run: dotnet build -c Release
 
     - name: Publish the app
-      run: dotnet publish --configuration Release --output ./publish
+      run: dotnet publish EPK.csproj -c Release -o release --nologo
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
-        folder: publish/wwwroot
+        folder: release/wwwroot
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
