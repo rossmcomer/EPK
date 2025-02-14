@@ -30,7 +30,7 @@ jobs:
       run: dotnet build -c Release
 
     - name: Publish the app
-      run: dotnet publish EPK.csproj -c Release -o release --nologo
+      run: dotnet publish EPK.csproj -c Release --output release --nologo
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
