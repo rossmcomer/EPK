@@ -25,12 +25,15 @@ jobs:
       run: |
         npm install
         npm install -g sass
+    
+    - name: Install .NET WASM Build Tools
+      run: dotnet workload install wasm-tools
 
     - name: Build the app
       run: dotnet build -c Release
 
     - name: Publish the app
-      run: dotnet publish EPK.csproj -c Release --output release --nologo
+      run: dotnet publish EPK.csproj -c:Release -p:GHPages=true -o release --nologo
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
