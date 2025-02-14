@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0zcf6dcpul</Fingerprint>
-      <Integrity>bAl6WErEER52BuiBxryMh/1I+z52uEb2wW73wmzJifw=</Integrity>
+      <Fingerprint>w0uzbex8aw</Fingerprint>
+      <Integrity>QIqqiFXXdH2lavearQvWR44Nv8bgm/3WVCXLkErSoOY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>94jtcz6g4u</Fingerprint>
-      <Integrity>96H4QJKvRIf+VaOlH30Kn/ymPSTPVlQ/8Fi4v/pK0i4=</Integrity>
+      <Fingerprint>o2rq4n7so1</Fingerprint>
+      <Integrity>cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>xdttgq7s7t</Fingerprint>
-      <Integrity>BWKnl0GG2MoSixgr4JZKmER8B6CcphkEzohp4nfOjXk=</Integrity>
+      <Fingerprint>x9e4u1dlmz</Fingerprint>
+      <Integrity>u0zQQ37c+lLtLDqtr65XrOl/pI482crW7bZAj3EShi8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css.map'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>9woch8gmzm</Fingerprint>
-      <Integrity>CVq3Qr7DkOUQFYE7al/DEDOmJhUWs/tRZwbxSQ0pWyE=</Integrity>
+      <Fingerprint>w0dlm1jj91</Fingerprint>
+      <Integrity>MJ+3NOfdQdhpQhbddiYf1X0lMDJYaHhA7COBHyfkyWs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EPK.styles.css'))</OriginalItemSpec>
