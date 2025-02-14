@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MdMwEpwRTsNfjeH7fKAb4IogjefAPnISQLs7PQd0l8I=",
+  "Hash": "7fon1GdD+R0z6GR1vK5IM29i1ViRN5E1yK3VKS6FkNg=",
   "Source": "EPK",
   "BasePath": "/",
   "Mode": "Root",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "2855y6t5wn",
-      "Integrity": "svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8=",
+      "Fingerprint": "p5km5xre86",
+      "Integrity": "jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -1361,12 +1361,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.Uri.wasm"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.br",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.br",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EPK#[.{fingerprint=2anmvr44tu}]!.wasm.br",
+      "RelativePath": "_framework/EPK#[.{fingerprint=r8aik7zyqf}]!.wasm.br",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1375,19 +1375,19 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\EPK.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "iu1tnkblwn",
-      "Integrity": "muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ=",
+      "Fingerprint": "ofn9ejhod9",
+      "Integrity": "HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\EPK.wasm"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EPK#[.{fingerprint=2anmvr44tu}]!.wasm.gz",
+      "RelativePath": "_framework/EPK#[.{fingerprint=r8aik7zyqf}]!.wasm.gz",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\EPK.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2y3qzav0th",
-      "Integrity": "evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y=",
+      "Fingerprint": "z18hii0a6y",
+      "Integrity": "B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\EPK.wasm"
@@ -3188,12 +3188,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.wasm"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-l05u50mt2e.br",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-o2rq4n7so1.br",
       "SourceId": "EPK",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "css/style#[.{fingerprint=l05u50mt2e}]?.css.br",
+      "RelativePath": "css/style#[.{fingerprint=o2rq4n7so1}]?.css.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3398,7 +3398,7 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-2855y6t5wn.br",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-p5km5xre86.br",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -3412,14 +3412,14 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "1uzfwuzc4a",
-      "Integrity": "1xQbPGnps4y/sSgQu7uQIR5LkxDjE2gbHAQCKhPyQkU=",
+      "Fingerprint": "4cde9na55w",
+      "Integrity": "BICobam2kjAo7zd3p/DVkvYwCbu82q4aRBW30QZUyfA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-2855y6t5wn.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-p5km5xre86.gz",
       "SourceId": "EPK",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -3433,8 +3433,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "o67hax0x70",
-      "Integrity": "oOzY51PCClFPnkk4GBpoYU9pgcUcTIRNV5mt8juRC9s=",
+      "Fingerprint": "wku3k0qua5",
+      "Integrity": "kHH0N4PRq2kbrq5xyXXUoSWDzvCau1g03VAK97e/rUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -3881,12 +3881,12 @@
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-l05u50mt2e.gz",
+      "Identity": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-o2rq4n7so1.gz",
       "SourceId": "EPK",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/style#[.{fingerprint=l05u50mt2e}]?.css.gz",
+      "RelativePath": "css/style#[.{fingerprint=o2rq4n7so1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3895,8 +3895,8 @@
       "RelatedAsset": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "592zn6zxou",
-      "Integrity": "10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w=",
+      "Fingerprint": "qhdwbfo7zj",
+      "Integrity": "sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\css\\style.css"
@@ -4252,8 +4252,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "2anmvr44tu",
-      "Integrity": "Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=",
+      "Fingerprint": "r8aik7zyqf",
+      "Integrity": "pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\EPK.wasm"
@@ -4987,8 +4987,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "l05u50mt2e",
-      "Integrity": "5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=",
+      "Fingerprint": "o2rq4n7so1",
+      "Integrity": "cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -6316,11 +6316,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8=\""
+          "Value": "\"jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:49 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6330,18 +6330,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8="
+          "Value": "sha256-jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-2855y6t5wn.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-p5km5xre86.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000394011032"
+          "Quality": "0.000393855849"
         }
       ],
       "ResponseHeaders": [
@@ -6351,15 +6351,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2538"
         },
         {
           "Name": "ETag",
-          "Value": "\"1xQbPGnps4y/sSgQu7uQIR5LkxDjE2gbHAQCKhPyQkU=\""
+          "Value": "\"BICobam2kjAo7zd3p/DVkvYwCbu82q4aRBW30QZUyfA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:49 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6379,24 +6379,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8=\""
+          "Value": "W/\"jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8="
+          "Value": "sha256-jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-2855y6t5wn.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-p5km5xre86.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000361010830"
+          "Quality": "0.000360880549"
         }
       ],
       "ResponseHeaders": [
@@ -6406,15 +6406,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2769"
+          "Value": "2770"
         },
         {
           "Name": "ETag",
-          "Value": "\"oOzY51PCClFPnkk4GBpoYU9pgcUcTIRNV5mt8juRC9s=\""
+          "Value": "\"kHH0N4PRq2kbrq5xyXXUoSWDzvCau1g03VAK97e/rUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:49 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6434,19 +6434,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8=\""
+          "Value": "W/\"jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-svOi0JU7i/80KTl0rSp9N6VGkI/TeEvVek38jeLmnN8="
+          "Value": "sha256-jYgNgq7s+mQACybkOlwnW2o71Mf+V6jSjXKkm+AYNwY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-2855y6t5wn.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-p5km5xre86.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6455,7 +6455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2537"
+          "Value": "2538"
         },
         {
           "Name": "Content-Type",
@@ -6463,11 +6463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"1xQbPGnps4y/sSgQu7uQIR5LkxDjE2gbHAQCKhPyQkU=\""
+          "Value": "\"BICobam2kjAo7zd3p/DVkvYwCbu82q4aRBW30QZUyfA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:49 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6485,13 +6485,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-1xQbPGnps4y/sSgQu7uQIR5LkxDjE2gbHAQCKhPyQkU="
+          "Value": "sha256-BICobam2kjAo7zd3p/DVkvYwCbu82q4aRBW30QZUyfA="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-2855y6t5wn.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\t9b9kepgmw-p5km5xre86.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6500,7 +6500,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2769"
+          "Value": "2770"
         },
         {
           "Name": "Content-Type",
@@ -6508,11 +6508,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oOzY51PCClFPnkk4GBpoYU9pgcUcTIRNV5mt8juRC9s=\""
+          "Value": "\"kHH0N4PRq2kbrq5xyXXUoSWDzvCau1g03VAK97e/rUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:49 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6530,7 +6530,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oOzY51PCClFPnkk4GBpoYU9pgcUcTIRNV5mt8juRC9s="
+          "Value": "sha256-kHH0N4PRq2kbrq5xyXXUoSWDzvCau1g03VAK97e/rUM="
         }
       ]
     },
@@ -6651,7 +6651,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:29 GMT"
+          "Value": "Tue, 29 Oct 2024 13:25:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6749,7 +6749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:29 GMT"
+          "Value": "Tue, 29 Oct 2024 13:25:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6833,7 +6833,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:29 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6986,7 +6986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:29 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7768,7 +7768,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:29 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7945,7 +7945,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:29 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8321,13 +8321,13 @@
       ]
     },
     {
-      "Route": "_framework/EPK.2anmvr44tu.wasm",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.br",
+      "Route": "_framework/EPK.r8aik7zyqf.wasm",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000115300357"
+          "Quality": "0.000115727346"
         }
       ],
       "ResponseHeaders": [
@@ -8337,15 +8337,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8672"
+          "Value": "8640"
         },
         {
           "Name": "ETag",
-          "Value": "\"muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ=\""
+          "Value": "\"HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8365,13 +8365,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=\""
+          "Value": "W/\"pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2anmvr44tu"
+          "Value": "r8aik7zyqf"
         },
         {
           "Name": "label",
@@ -8379,18 +8379,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo="
+          "Value": "sha256-pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M="
         }
       ]
     },
     {
-      "Route": "_framework/EPK.2anmvr44tu.wasm",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.gz",
+      "Route": "_framework/EPK.r8aik7zyqf.wasm",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000099532199"
+          "Quality": "0.000099482690"
         }
       ],
       "ResponseHeaders": [
@@ -8400,15 +8400,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10046"
+          "Value": "10051"
         },
         {
           "Name": "ETag",
-          "Value": "\"evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y=\""
+          "Value": "\"B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8428,13 +8428,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=\""
+          "Value": "W/\"pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2anmvr44tu"
+          "Value": "r8aik7zyqf"
         },
         {
           "Name": "label",
@@ -8442,12 +8442,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo="
+          "Value": "sha256-pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M="
         }
       ]
     },
     {
-      "Route": "_framework/EPK.2anmvr44tu.wasm",
+      "Route": "_framework/EPK.r8aik7zyqf.wasm",
       "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\webcil\\publish\\EPK.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8465,11 +8465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=\""
+          "Value": "\"pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8479,7 +8479,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2anmvr44tu"
+          "Value": "r8aik7zyqf"
         },
         {
           "Name": "label",
@@ -8487,13 +8487,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo="
+          "Value": "sha256-pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M="
         }
       ]
     },
     {
-      "Route": "_framework/EPK.2anmvr44tu.wasm.br",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.br",
+      "Route": "_framework/EPK.r8aik7zyqf.wasm.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8502,7 +8502,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8672"
+          "Value": "8640"
         },
         {
           "Name": "Content-Type",
@@ -8510,11 +8510,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ=\""
+          "Value": "\"HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8532,7 +8532,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2anmvr44tu"
+          "Value": "r8aik7zyqf"
         },
         {
           "Name": "label",
@@ -8540,13 +8540,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ="
+          "Value": "sha256-HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0="
         }
       ]
     },
     {
-      "Route": "_framework/EPK.2anmvr44tu.wasm.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.gz",
+      "Route": "_framework/EPK.r8aik7zyqf.wasm.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8555,7 +8555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10046"
+          "Value": "10051"
         },
         {
           "Name": "Content-Type",
@@ -8563,11 +8563,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y=\""
+          "Value": "\"B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8585,7 +8585,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2anmvr44tu"
+          "Value": "r8aik7zyqf"
         },
         {
           "Name": "label",
@@ -8593,18 +8593,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y="
+          "Value": "sha256-B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q="
         }
       ]
     },
     {
       "Route": "_framework/EPK.wasm",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000115300357"
+          "Quality": "0.000115727346"
         }
       ],
       "ResponseHeaders": [
@@ -8614,15 +8614,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8672"
+          "Value": "8640"
         },
         {
           "Name": "ETag",
-          "Value": "\"muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ=\""
+          "Value": "\"HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8642,24 +8642,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=\""
+          "Value": "W/\"pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo="
+          "Value": "sha256-pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M="
         }
       ]
     },
     {
       "Route": "_framework/EPK.wasm",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000099532199"
+          "Quality": "0.000099482690"
         }
       ],
       "ResponseHeaders": [
@@ -8669,15 +8669,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10046"
+          "Value": "10051"
         },
         {
           "Name": "ETag",
-          "Value": "\"evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y=\""
+          "Value": "\"B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8697,13 +8697,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=\""
+          "Value": "W/\"pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo="
+          "Value": "sha256-pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M="
         }
       ]
     },
@@ -8726,11 +8726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo=\""
+          "Value": "\"pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8740,13 +8740,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Wir0li/ZjG5aqR6/IeY7yNanqVIZKQtpqY3ALFDIKNo="
+          "Value": "sha256-pTuOsqZIuJrnfhd/Vy9qRprfrEg6KCcsw8o37Hm7i9M="
         }
       ]
     },
     {
       "Route": "_framework/EPK.wasm.br",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8755,7 +8755,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8672"
+          "Value": "8640"
         },
         {
           "Name": "Content-Type",
@@ -8763,11 +8763,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ=\""
+          "Value": "\"HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8785,13 +8785,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-muVjpYtXEkY1ct+IcqdrdRsPBTjAXTzUjBT99Uw5YmQ="
+          "Value": "sha256-HBcx9Sqgau+NwV3lUQufqcu72jWR55xiEBSQBgWlps0="
         }
       ]
     },
     {
       "Route": "_framework/EPK.wasm.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-2anmvr44tu.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\3oc081ap8u-r8aik7zyqf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8800,7 +8800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10046"
+          "Value": "10051"
         },
         {
           "Name": "Content-Type",
@@ -8808,11 +8808,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y=\""
+          "Value": "\"B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:48 GMT"
+          "Value": "Fri, 14 Feb 2025 15:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8830,7 +8830,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-evEx7OVpd05xtN80A+QdwhUYtoPn2bXsB/CN9C3SZ4Y="
+          "Value": "sha256-B53laLPgc3d9wK6s10Z2+UmF3w8nQri04kUV17aen1Q="
         }
       ]
     },
@@ -27023,7 +27023,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-l05u50mt2e.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-o2rq4n7so1.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -27046,7 +27046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:38 GMT"
+          "Value": "Fri, 14 Feb 2025 15:57:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27066,24 +27066,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=\""
+          "Value": "W/\"cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg="
+          "Value": "sha256-cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU="
         }
       ]
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-l05u50mt2e.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-o2rq4n7so1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029746854"
+          "Quality": "0.000029785840"
         }
       ],
       "ResponseHeaders": [
@@ -27093,15 +27093,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33616"
+          "Value": "33572"
         },
         {
           "Name": "ETag",
-          "Value": "\"10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w=\""
+          "Value": "\"sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 04:52:09 GMT"
+          "Value": "Thu, 13 Feb 2025 17:50:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27121,13 +27121,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=\""
+          "Value": "W/\"cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg="
+          "Value": "sha256-cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU="
         }
       ]
     },
@@ -27142,7 +27142,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "274324"
+          "Value": "274285"
         },
         {
           "Name": "Content-Type",
@@ -27150,11 +27150,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=\""
+          "Value": "\"cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 04:52:09 GMT"
+          "Value": "Thu, 13 Feb 2025 17:50:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27164,13 +27164,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg="
+          "Value": "sha256-cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU="
         }
       ]
     },
     {
       "Route": "css/style.css.br",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-l05u50mt2e.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-o2rq4n7so1.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27191,7 +27191,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:38 GMT"
+          "Value": "Fri, 14 Feb 2025 15:57:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27215,7 +27215,7 @@
     },
     {
       "Route": "css/style.css.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-l05u50mt2e.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-o2rq4n7so1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27224,7 +27224,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33616"
+          "Value": "33572"
         },
         {
           "Name": "Content-Type",
@@ -27232,11 +27232,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w=\""
+          "Value": "\"sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 04:52:09 GMT"
+          "Value": "Thu, 13 Feb 2025 17:50:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27254,7 +27254,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w="
+          "Value": "sha256-sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc="
         }
       ]
     },
@@ -27773,8 +27773,8 @@
       ]
     },
     {
-      "Route": "css/style.l05u50mt2e.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-l05u50mt2e.br",
+      "Route": "css/style.o2rq4n7so1.css",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-o2rq4n7so1.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -27797,7 +27797,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:38 GMT"
+          "Value": "Fri, 14 Feb 2025 15:57:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27817,13 +27817,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=\""
+          "Value": "W/\"cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l05u50mt2e"
+          "Value": "o2rq4n7so1"
         },
         {
           "Name": "label",
@@ -27831,18 +27831,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg="
+          "Value": "sha256-cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU="
         }
       ]
     },
     {
-      "Route": "css/style.l05u50mt2e.css",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-l05u50mt2e.gz",
+      "Route": "css/style.o2rq4n7so1.css",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-o2rq4n7so1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000029746854"
+          "Quality": "0.000029785840"
         }
       ],
       "ResponseHeaders": [
@@ -27852,15 +27852,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33616"
+          "Value": "33572"
         },
         {
           "Name": "ETag",
-          "Value": "\"10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w=\""
+          "Value": "\"sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 04:52:09 GMT"
+          "Value": "Thu, 13 Feb 2025 17:50:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27880,13 +27880,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=\""
+          "Value": "W/\"cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l05u50mt2e"
+          "Value": "o2rq4n7so1"
         },
         {
           "Name": "label",
@@ -27894,12 +27894,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg="
+          "Value": "sha256-cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU="
         }
       ]
     },
     {
-      "Route": "css/style.l05u50mt2e.css",
+      "Route": "css/style.o2rq4n7so1.css",
       "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -27909,7 +27909,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "274324"
+          "Value": "274285"
         },
         {
           "Name": "Content-Type",
@@ -27917,11 +27917,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg=\""
+          "Value": "\"cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 04:52:09 GMT"
+          "Value": "Thu, 13 Feb 2025 17:50:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27931,7 +27931,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l05u50mt2e"
+          "Value": "o2rq4n7so1"
         },
         {
           "Name": "label",
@@ -27939,13 +27939,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-5Tm4v7kic7NrNYJQEbQBGjx2y83RebhnrOavuN8JJCg="
+          "Value": "sha256-cEQNkJ9CH0WtXvXdE+o3E/KEasmJGglFr9Row0MHHlU="
         }
       ]
     },
     {
-      "Route": "css/style.l05u50mt2e.css.br",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-l05u50mt2e.br",
+      "Route": "css/style.o2rq4n7so1.css.br",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\publish\\qdp8yc1og1-o2rq4n7so1.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27966,7 +27966,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 17:16:38 GMT"
+          "Value": "Fri, 14 Feb 2025 15:57:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27984,7 +27984,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l05u50mt2e"
+          "Value": "o2rq4n7so1"
         },
         {
           "Name": "label",
@@ -27997,8 +27997,8 @@
       ]
     },
     {
-      "Route": "css/style.l05u50mt2e.css.gz",
-      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-l05u50mt2e.gz",
+      "Route": "css/style.o2rq4n7so1.css.gz",
+      "AssetFile": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\obj\\Release\\net9.0\\compressed\\qdp8yc1og1-o2rq4n7so1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -28007,7 +28007,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33616"
+          "Value": "33572"
         },
         {
           "Name": "Content-Type",
@@ -28015,11 +28015,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w=\""
+          "Value": "\"sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 04:52:09 GMT"
+          "Value": "Thu, 13 Feb 2025 17:50:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -28037,7 +28037,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "l05u50mt2e"
+          "Value": "o2rq4n7so1"
         },
         {
           "Name": "label",
@@ -28045,7 +28045,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-10pEVikpNpS7oEYg6YyxXUCTdpvrMja222vF082Kv3w="
+          "Value": "sha256-sixDbpl0M6S+7Y4XzjeG5DFZOG3OZvjXjDQnMO9+QFc="
         }
       ]
     },
@@ -30764,7 +30764,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30819,7 +30819,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30872,7 +30872,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30909,7 +30909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -30954,7 +30954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31001,7 +31001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31064,7 +31064,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31125,7 +31125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31170,7 +31170,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -31223,7 +31223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Dec 2024 05:21:27 GMT"
+          "Value": "Thu, 13 Feb 2025 17:42:29 GMT"
         },
         {
           "Name": "Cache-Control",

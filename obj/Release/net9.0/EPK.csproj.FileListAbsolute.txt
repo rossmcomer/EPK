@@ -6,8 +6,6 @@ C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\dotnet.na
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\dotnet.native.p4lwlf2bu1.wasm
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.o8gq1i8bk6.js
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.y57eq7pmle.pdb
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.2anmvr44tu.wasm
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -370,7 +368,6 @@ C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Se
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Runtime.Intrinsics.tfmvq1uell.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.7vk18dph4p.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Net.Security.9iqe578jov.wasm.gz
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.y57eq7pmle.pdb.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.8r1tzxyzhv.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Security.SecureString.qp1mnkt53l.wasm.gz
@@ -398,7 +395,6 @@ C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Xm
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.flveird317.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.cx40wf47rk.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wzhxi250cz.wasm.gz
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.2anmvr44tu.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Collections.Concurrent.xuu1t5r6su.wasm.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\System.Formats.Tar.8xxxaqbsnj.wasm.gz
@@ -823,7 +819,6 @@ C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\scopedcss\projectbundle\EPK.
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\blazor.boot.json
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\1d91axtw5y-w0uzbex8aw.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\qdp8yc1og1-l05u50mt2e.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\e9ndfs9zyn-x9e4u1dlmz.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\ww8p56ieiy-b1n084n8yz.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\2d22ac6pt9-iayen8mbmb.gz
@@ -1075,9 +1070,6 @@ C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\unpudmg75p-e5oado
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\t8n7hh1622-tjcz0u77k5.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\aejmbsf5oi-tptq2av103.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\0zr4jfgcqt-lfu7j35m59.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\xvdmz5djzx-2anmvr44tu.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\t3d48q9oaw-y57eq7pmle.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\27rsoe1p7v-rem6zvmjfh.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1092,3 +1084,16 @@ C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\EPK.dll
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\refint\EPK.dll
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\EPK.pdb
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\ref\EPK.dll
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.4by9p603b5.pdb
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.r8aik7zyqf.wasm
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.4by9p603b5.pdb.gz
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.r8aik7zyqf.wasm.gz
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\dist\web.config
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\dist\EPK.staticwebassets.endpoints.json
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\dist\package-lock.json
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\dist\wwwroot\socialMediaLinks.json
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\dist\wwwroot\_framework\blazor.boot.json
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\qdp8yc1og1-o2rq4n7so1.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\xvdmz5djzx-r8aik7zyqf.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\t3d48q9oaw-4by9p603b5.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\27rsoe1p7v-llhudr5bwv.gz

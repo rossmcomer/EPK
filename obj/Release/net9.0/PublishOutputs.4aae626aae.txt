@@ -1,2 +1,7 @@
+C:\Users\yanke\Desktop\repos\EPK\dist\dist\web.config
+C:\Users\yanke\Desktop\repos\EPK\dist\dist\EPK.staticwebassets.endpoints.json
+C:\Users\yanke\Desktop\repos\EPK\dist\dist\package-lock.json
+C:\Users\yanke\Desktop\repos\EPK\dist\dist\wwwroot\socialMediaLinks.json
+C:\Users\yanke\Desktop\repos\EPK\dist\dist\wwwroot\_framework\blazor.boot.json
 C:\Users\yanke\Desktop\repos\EPK\dist\package-lock.json
 C:\Users\yanke\Desktop\repos\EPK\dist\web.config
