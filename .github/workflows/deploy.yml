@@ -21,10 +21,9 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
-    - name: Install npm dependencies and sass
+    - name: Install npm dependencies
       run: |
         npm install
-        npm install -g sass
 
     - name: Build the app
       run: dotnet build -c Release
