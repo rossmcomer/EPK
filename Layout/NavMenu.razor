@@ -45,6 +45,6 @@
 
     protected override async Task OnInitializedAsync()
     {
-        SocialMediaLinks = await Http.GetFromJsonAsync<List<SocialMediaLink>>("SocialMediaLinks.json");
+        SocialMediaLinks = await Http.GetFromJsonAsync<List<SocialMediaLink>>("socialMediaLinks.json");
     }
 }
