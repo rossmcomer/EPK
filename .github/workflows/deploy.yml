@@ -39,6 +39,6 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         BRANCH: gh-pages
-        FOLDER: .
+        FOLDER: release/wwwroot
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
