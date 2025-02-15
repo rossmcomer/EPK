@@ -1,4 +1,4 @@
-name: Deploy Blazor WebAssembly App to GitHub Pages
+name: Deploy Blazor WebAssembly to GitHub Pages
 
 on:
   push:
