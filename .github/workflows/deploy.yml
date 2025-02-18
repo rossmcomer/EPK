@@ -21,8 +21,10 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
 
-    - name: Install npm dependencies
-      run: npm i
+    - name: Install npm dependencies and sass
+      run: |
+        npm install
+        npm install -g sass
     
     - name: Install .NET WASM Build Tools
       run: dotnet workload install wasm-tools
@@ -31,11 +33,12 @@ jobs:
       run: dotnet build -c Release
 
     - name: Publish the app
-      run: dotnet publish EPK.csproj -c:Release -p:GHPages=true --nologo
+      run: dotnet publish EPK.csproj -c:Release -p:GHPages=true -o release --nologo
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
+        folder: release/wwwroot
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
