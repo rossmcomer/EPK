@@ -1062,11 +1062,6 @@ C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\EPK.dll
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\refint\EPK.dll
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\EPK.pdb
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\ref\EPK.dll
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.stjw49d9o1.pdb
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.kay737o6gd.wasm
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.stjw49d9o1.pdb.gz
-C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.kay737o6gd.wasm.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\qdp8yc1og1-zjmkuhhoty.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\pi4mal2vw1-t1cqhe9u97.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\px2s0ld3gl-sejl45xvog.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\n4sdssu9xi-xvp3kq03qx.gz
@@ -1089,6 +1084,11 @@ C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\fipx22nd82-mta2lx
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\1oh3r64dlz-8vyfqsqgz1.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\kbuwwgwd2y-3omdiwgat1.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\2ex758p1uj-4d85u1mtcx.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\xvdmz5djzx-kay737o6gd.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\t3d48q9oaw-stjw49d9o1.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\27rsoe1p7v-8hyjp0l1m0.gz
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.rrlnm7i5d9.pdb
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.nbyjk3a32w.wasm
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.rrlnm7i5d9.pdb.gz
+C:\Users\yanke\Desktop\repos\EPK\bin\Release\net9.0\wwwroot\_framework\EPK.nbyjk3a32w.wasm.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\qdp8yc1og1-o2rq4n7so1.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\xvdmz5djzx-nbyjk3a32w.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\t3d48q9oaw-rrlnm7i5d9.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Release\net9.0\compressed\27rsoe1p7v-l1lp4331au.gz
