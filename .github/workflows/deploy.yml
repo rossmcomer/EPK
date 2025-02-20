@@ -35,6 +35,10 @@ jobs:
     - name: Debug output structure
       run: ls -R release
 
+    - name: Move files to root
+      run: |
+        mv release/wwwroot/* release/
+
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
