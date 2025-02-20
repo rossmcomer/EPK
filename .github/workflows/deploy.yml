@@ -27,7 +27,10 @@ jobs:
         node-version: '20'
     
     - name: Install dependencies
-      run: npm i
+      run: npm install
+    
+    - name: Ensure Sass is Executable
+      run: npx sass --version 
     
     - name: Build SASS
       run: npm run build:sass
