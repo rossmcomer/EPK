@@ -1085,10 +1085,10 @@ C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\fipx22nd82-mta2lxky
 C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\1oh3r64dlz-8vyfqsqgz1.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\kbuwwgwd2y-3omdiwgat1.gz
 C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\2ex758p1uj-4d85u1mtcx.gz
-C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.a5a33z60kb.pdb
-C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.qeelpwyplg.wasm
-C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.a5a33z60kb.pdb.gz
-C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.qeelpwyplg.wasm.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\xvdmz5djzx-qeelpwyplg.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\t3d48q9oaw-a5a33z60kb.gz
-C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\27rsoe1p7v-6115oxlgel.gz
+C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.7f8o1iciq3.pdb
+C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.jmf4aivbn2.wasm
+C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.7f8o1iciq3.pdb.gz
+C:\Users\yanke\Desktop\repos\EPK\bin\Debug\net9.0\wwwroot\_framework\EPK.jmf4aivbn2.wasm.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\xvdmz5djzx-jmf4aivbn2.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\t3d48q9oaw-7f8o1iciq3.gz
+C:\Users\yanke\Desktop\repos\EPK\obj\Debug\net9.0\compressed\27rsoe1p7v-3zoue4xteg.gz

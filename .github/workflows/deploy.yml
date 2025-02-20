@@ -30,7 +30,10 @@ jobs:
       run: dotnet workload install wasm-tools
 
     - name: Publish the app
-      run: dotnet publish -c Release -p:GHPages=true --nologo
+      run: dotnet publish -c Release -p:GHPages=true -o release --nologo
+
+    - name: Debug output structure
+      run: ls -R release
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
