@@ -30,7 +30,7 @@ jobs:
       run: dotnet workload install wasm-tools
 
     - name: Publish the app
-      run: dotnet publish -c Release -p:GHPages=true -o release --nologo
+      run: dotnet publish EPK.csproj -c Release -p:GHPages=true -o release --nologo
 
     - name: Debug output structure
       run: ls -R release
