@@ -4,6 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <OutputPath>bin\Release\net9.0\publish\wwwroot</OutputPath>
+    <BlazorWebAssemblyEnableCompression>false</BlazorWebAssemblyEnableCompression>
   </PropertyGroup>
 
   <Target Name="CompileSass" BeforeTargets="Build">

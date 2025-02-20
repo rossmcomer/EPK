@@ -1,9 +1,12 @@
-name: Deploy Blazor WebAssembly to GitHub Pages
+name: Deploy Blazor WebAssembly App to GitHub Pages
 
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,31 +21,30 @@ jobs:
       with:
         dotnet-version: '9.0'
     
-    - name: Restore dependencies
-      run: dotnet restore
-
-    - name: Install npm dependencies and sass
-      run: |
-        npm install
-        npm install -g sass
+    - name: Setup Node.js (for SASS)
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
     
-    - name: Install .NET WASM Build Tools
-      run: dotnet workload install wasm-tools
+    - name: Install dependencies
+      run: npm i
+    
+    - name: Build SASS
+      run: npm run build:sass
 
     - name: Publish the app
-      run: dotnet publish EPK.csproj -c Release -o release --nologo
+      run: dotnet publish -c Release --nologo
 
-    - name: Debug output structure
-      run: ls -R release
-
-    - name: Move files to root
+    - name: Move to Deployment Directory
       run: |
-        mv release/wwwroot/* release/
+        mkdir publish
+        cp -r bin/Release/net9.0/publish/wwwroot/* publish/
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
-        folder: release/
+        folder: publish
+        clean: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
