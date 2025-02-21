@@ -2,6 +2,12 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "BlazorWasmBrotliLoader.Build/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/BlazorWasmBrotliLoader.Build.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -431,10 +437,26 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "PublishSPAforGitHubPages.Build/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "BlazorWasmBrotliLoader.Build": "1.0.0"
+        },
+        "build": {
+          "build/PublishSPAforGitHubPages.Build.props": {},
+          "build/PublishSPAforGitHubPages.Build.targets": {}
         }
       }
     },
     "net9.0/browser-wasm": {
+      "BlazorWasmBrotliLoader.Build/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/BlazorWasmBrotliLoader.Build.targets": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -864,11 +886,42 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "PublishSPAforGitHubPages.Build/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "BlazorWasmBrotliLoader.Build": "1.0.0"
+        },
+        "build": {
+          "build/PublishSPAforGitHubPages.Build.props": {},
+          "build/PublishSPAforGitHubPages.Build.targets": {}
         }
       }
     }
   },
   "libraries": {
+    "BlazorWasmBrotliLoader.Build/1.0.0": {
+      "sha512": "7mLo7kyUGuheP+b5UqUIHSmjf1ylVjzBY8McwkLBL7LW0hXGNUvnyMHTuRjLVw23I4Ad+dMbG5NLQOUKFrg0VQ==",
+      "type": "package",
+      "path": "blazorwasmbrotliloader.build/1.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "blazorwasmbrotliloader.build.1.0.0.nupkg.sha512",
+        "blazorwasmbrotliloader.build.nuspec",
+        "build/BlazorWasmBrotliLoader.Build.targets",
+        "bundle/scripts/brotliloader.js",
+        "bundle/scripts/brotliloader.min.js",
+        "bundle/scripts/decode.js",
+        "bundle/scripts/decode.min.js",
+        "nupkg-icon.png",
+        "tools/BlazorWasmBrotliLoader.Build.dll",
+        "tools/BrotliSharpLib.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/9.0.0": {
       "sha512": "qDJlBC5pUQ/3o6/C6Vuo9CGKtV5TAe5AdKeHvDR2bgmw8vwPxsAy3KG5eU0i1C+iAUNbmq+iDTbiKt16f9pRiA==",
       "type": "package",
@@ -1746,6 +1799,23 @@
         "tools/net9.0/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net9.0/Microsoft.NET.WebAssembly.Webcil.dll"
       ]
+    },
+    "PublishSPAforGitHubPages.Build/3.0.0": {
+      "sha512": "niaAihtaDgznhvCturFsd26a8YR0ghakeEC0bjp3b1wg5Cs0b2Of5eoe8JtWKpLmyfrSssU5AfhvvctzAKxuYg==",
+      "type": "package",
+      "path": "publishspaforgithubpages.build/3.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/PublishSPAforGitHubPages.Build.props",
+        "build/PublishSPAforGitHubPages.Build.targets",
+        "nupkg-icon.png",
+        "publishspaforgithubpages.build.3.0.0.nupkg.sha512",
+        "publishspaforgithubpages.build.nuspec",
+        "tools/PublishSPAforGitHubPages.Build.dll"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -1753,7 +1823,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.0",
       "Microsoft.NET.ILLink.Tasks >= 9.0.0",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.0",
+      "PublishSPAforGitHubPages.Build >= 3.0.0"
     ]
   },
   "packageFolders": {
@@ -1819,6 +1890,10 @@
             "target": "Package",
             "version": "[9.0.0, )",
             "autoReferenced": true
+          },
+          "PublishSPAforGitHubPages.Build": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           }
         },
         "imports": [

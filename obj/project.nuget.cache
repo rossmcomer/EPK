@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Y3gL9ywtbLg=",
+  "dgSpecHash": "dv/xafTaN+Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\yanke\\Desktop\\repos\\EPK\\EPK.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yanke\\.nuget\\packages\\blazorwasmbrotliloader.build\\1.0.0\\blazorwasmbrotliloader.build.1.0.0.nupkg.sha512",
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.0\\microsoft.aspnetcore.components.analyzers.9.0.0.nupkg.sha512",
@@ -30,6 +31,7 @@
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.0\\microsoft.jsinterop.webassembly.9.0.0.nupkg.sha512",
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.0\\microsoft.net.sdk.webassembly.pack.9.0.0.nupkg.sha512",
+    "C:\\Users\\yanke\\.nuget\\packages\\publishspaforgithubpages.build\\3.0.0\\publishspaforgithubpages.build.3.0.0.nupkg.sha512",
     "C:\\Users\\yanke\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.0.nupkg.sha512"
   ],
   "logs": []
