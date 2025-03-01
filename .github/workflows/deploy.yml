@@ -20,7 +20,7 @@ jobs:
     - name: Install .NET WebAssembly Tools
       run: dotnet workload install wasm-tools
     
-    - name: Setup Node.js (for SASS)
+    - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: '20'
@@ -42,3 +42,6 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: publish/wwwroot
         force_orphan: true
+
+    - name: Revert Base URL Change
+      run: sed -i 's|<base href="/EPK/"|<base href="/"|' publish/wwwroot/index.html
