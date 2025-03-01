@@ -17,7 +17,6 @@ jobs:
       uses: actions/setup-dotnet@v4.3.0
       with:
         dotnet-version: '9.0'
-
     - name: Install .NET WebAssembly Tools
       run: dotnet workload install wasm-tools
     
@@ -26,13 +25,13 @@ jobs:
       with:
         node-version: '20'
     
-    # - name: Install dependencies
-    #   run: |
-    #     npm install
-    #     npm install sass
+    - name: Install dependencies
+      run: |
+        npm install
+        npm install sass
     
-    # - name: Build SASS
-    #   run: npm run build:sass
+    - name: Build SASS
+      run: npm run build:sass
 
     - name: Publish the app
       run: dotnet publish EPK.sln -c:Release -o:publish -p:GHPages=true
