@@ -26,15 +26,10 @@ jobs:
         node-version: '20'
     
     - name: Install dependencies
-      run: |
-        npm install
-        npm install sass
-    
-    - name: Build SASS
-      run: npm run build:sass
+      run: npm install
 
     - name: Publish the app
-      run: dotnet publish EPK.sln -c:Release -o:publish -p:GHPages=true
+      run: dotnet publish EPK.sln -c:Release -o:publish
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
@@ -42,6 +37,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: publish/wwwroot
         force_orphan: true
-
-    - name: Revert Base URL Change
-      run: sed -i 's|<base href="/EPK/"|<base href="/"|' publish/wwwroot/index.html

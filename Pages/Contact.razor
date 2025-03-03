@@ -43,6 +43,8 @@
             return;
         }
 
+        await Task.Delay(100); 
+
         // Simulate sending the email or handling the form submission.
         Console.WriteLine($"Email sent to: {ContactForm.RecipientEmail}");
         Console.WriteLine($"Title: {ContactForm.Title}");
