@@ -17,6 +17,7 @@ jobs:
       uses: actions/setup-dotnet@v4.3.0
       with:
         dotnet-version: '9.0'
+
     - name: Install .NET WebAssembly Tools
       run: dotnet workload install wasm-tools
     
@@ -25,11 +26,14 @@ jobs:
       with:
         node-version: '20'
     
-    - name: Install dependencies
+    - name: Install Node.js dependencies
       run: npm install
 
+    - name: Restore .NET dependencies
+      run: dotnet restore
+
     - name: Publish the app
-      run: dotnet publish EPK.sln -c:Release -o:publish
+      run: dotnet publish -c:Release -o:publish
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v4
