@@ -1,0 +1,2 @@
+C:\Users\yanke\Desktop\repos\EPK\release\package-lock.json
+C:\Users\yanke\Desktop\repos\EPK\release\web.config

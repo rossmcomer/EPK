@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "build:sass": "sass --no-source-map Scss/style.scss wwwroot/css/style.css",
+        "watch:sass": "sass --watch Scss/style.scss:wwwroot/css/style.css"
+    },
+    "devDependencies": {
+        "sass": "^1.82.0"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.3"
+    }
+}
