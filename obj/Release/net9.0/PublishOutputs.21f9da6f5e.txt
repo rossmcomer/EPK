@@ -1,2 +1,0 @@
-C:\Users\yanke\Desktop\repos\EPK\bin\publish\package-lock.json
-C:\Users\yanke\Desktop\repos\EPK\bin\publish\web.config
