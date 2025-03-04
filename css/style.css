@@ -11886,6 +11886,7 @@ textarea.form-control-lg {
   background-color: rgba(240, 250, 255, 0.6);
   padding: 30px;
   width: 67%;
+  min-width: 330px;
 }
 
 .stylisticLine {
