@@ -184,6 +184,16 @@ ul[b-exxy13dbf9] {
     font-weight: 500;
     margin: 5px 0px;
 }
+
+#submitBtnWrapper[b-1fw9fin4ji]{
+    display:flex;
+    margin-top: 10px;
+    justify-content: flex-end;
+}
+
+#submitBtn[b-1fw9fin4ji] {
+    justify-content: right;
+}
 /* /Pages/Home.razor.rz.scp.css */
 .headerContent[b-1lq06ou2z4] {
     display:flex;
