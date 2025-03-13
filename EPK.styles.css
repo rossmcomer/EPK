@@ -193,6 +193,9 @@ ul[b-exxy13dbf9] {
 
 #submitBtn[b-1fw9fin4ji] {
     background-color: #6F00FF;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: rgb(233, 233, 233);
+    opacity: 1;
 }
 /* /Pages/Home.razor.rz.scp.css */
 .headerContent[b-1lq06ou2z4] {
@@ -227,7 +230,7 @@ ul[b-exxy13dbf9] {
 .homeDescription[b-1lq06ou2z4] {
     color: var(--green);
     font-style: italic;
-    font-size:40px;
+    font-size:30px;
     white-space: nowrap;
 }
 
