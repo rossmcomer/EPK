@@ -13,4 +13,7 @@
 
 #submitBtn {
     background-color: #6F00FF;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: rgb(233, 233, 233);
+    opacity: 1;
 }
