@@ -178,6 +178,10 @@ ul[b-exxy13dbf9] {
     list-style-type: disc;
 }
 /* /Pages/Contact.razor.rz.scp.css */
+#recipient[b-1fw9fin4ji] {
+    cursor: pointer;
+}
+
 .contactText[b-1fw9fin4ji] {
     font-style: italic;
     font-size: 18px;
