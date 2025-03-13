@@ -1,3 +1,7 @@
+#recipient {
+    cursor: pointer;
+}
+
 .contactText {
     font-style: italic;
     font-size: 18px;
