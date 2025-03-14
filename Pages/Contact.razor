@@ -48,25 +48,5 @@
 </div>
 
 @code {
-    private ContactFormModel ContactForm { get; set; } = new ContactFormModel();
-
-    private async Task HandleSubmit()
-    {
-        if (string.IsNullOrEmpty(ContactForm.RecipientEmail))
-        {
-            Console.WriteLine("Please select a recipient.");
-            return;
-        }
-
-        await Task.Delay(100); 
-
-        // Simulate sending the email or handling the form submission.
-        Console.WriteLine($"Email sent to: {ContactForm.RecipientEmail}");
-        Console.WriteLine($"Name: {ContactForm.Name}");
-        Console.WriteLine($"Title: {ContactForm.Title}");
-        Console.WriteLine($"Message: {ContactForm.Message}");
-
-        // Reset form fields (optional)
-        ContactForm = new ContactFormModel();
-    }
+    
 }
