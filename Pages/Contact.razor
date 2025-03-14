@@ -19,6 +19,10 @@
                     </select>
                 </div>
                 <div class="form-group">
+                    <label for="name" class="contactText">Name:</label>
+                    <input id="name" class="form-control" @bind="ContactForm.Name" />
+                </div>
+                <div class="form-group">
                     <label for="title" class="contactText">Title:</label>
                     <input id="title" class="form-control" @bind="ContactForm.Title" />
                 </div>
@@ -49,6 +53,7 @@
 
         // Simulate sending the email or handling the form submission.
         Console.WriteLine($"Email sent to: {ContactForm.RecipientEmail}");
+        Console.WriteLine($"Name: {ContactForm.Name}");
         Console.WriteLine($"Title: {ContactForm.Title}");
         Console.WriteLine($"Message: {ContactForm.Message}");
 
