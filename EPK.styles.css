@@ -32,10 +32,12 @@
     transition: var(--color-trans);
 }
 
-.nav-item[b-syjhu7d0sm]  a:hover {
-    color: var(--green);
-    transition: var(--color-trans);
-}
+@media (hover: hover) and (pointer: fine) {
+    .nav-item[b-syjhu7d0sm]  a:hover {
+      color: var(--green);
+      transition: var(--color-trans);
+    }
+  }
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-gg4ggk83ck] {
     display: flex;
@@ -141,10 +143,12 @@ main[b-gg4ggk83ck] {
     transition: var(--color-trans);
 }
 
-.nav-item[b-ijgp04wg38]  a:hover {
-    color: var(--green);
-    transition: var(--color-trans);
-}
+@media (hover: hover) and (pointer: fine) {
+    .nav-item[b-ijgp04wg38]  a:hover {
+      color: var(--green);
+      transition: var(--color-trans);
+    }
+  }
 
 .socialMediaLinks[b-ijgp04wg38] {
     display:flex;
