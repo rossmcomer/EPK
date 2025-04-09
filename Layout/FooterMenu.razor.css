@@ -31,7 +31,9 @@
     transition: var(--color-trans);
 }
 
-.nav-item ::deep a:hover {
-    color: var(--green);
-    transition: var(--color-trans);
-}
+@media (hover: hover) and (pointer: fine) {
+    .nav-item ::deep a:hover {
+      color: var(--green);
+      transition: var(--color-trans);
+    }
+  }
